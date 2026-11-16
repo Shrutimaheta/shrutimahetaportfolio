@@ -6,7 +6,7 @@
 
 RAG assistants · Django platforms · Odoo ERP
 
-### [🌐 View the live portfolio →](https://shrutimaheta.github.io/shrutimahetaportfolio/)
+### [🌐 View the live portfolio →](https://shruti-maheta.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Email-mahetashruti6%40gmail.com-d2ff4d?style=flat-square&labelColor=0a0b0e)](mailto:mahetashruti6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrutimaheta-d2ff4d?style=flat-square&labelColor=0a0b0e)](https://linkedin.com/in/shrutimaheta)
