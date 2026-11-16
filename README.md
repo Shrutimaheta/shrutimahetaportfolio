@@ -9,7 +9,7 @@ RAG assistants · Django platforms · Odoo ERP
 ### [🌐 View the live portfolio →](https://shruti-maheta.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Email-mahetashruti6%40gmail.com-d2ff4d?style=flat-square&labelColor=0a0b0e)](mailto:mahetashruti6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shrutimaheta-d2ff4d?style=flat-square&labelColor=0a0b0e)](https://linkedin.com/in/shrutimaheta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shruti%20Maheta-d2ff4d?style=flat-square&labelColor=0a0b0e)](https://www.linkedin.com/in/shruti-maheta-5370b2254/)
 [![Open to work](https://img.shields.io/badge/Status-Open%20to%20full--time%20%26%20freelance-d2ff4d?style=flat-square&labelColor=0a0b0e)](#-work-with-me)
 
 <img src="img/preview.jpg" alt="Portfolio homepage preview" width="900">
@@ -53,7 +53,7 @@ I'm open to **full-time AI/ML, Python and Odoo roles** (Ahmedabad, Gandhinagar o
 - ⚙️ Odoo ERP customisation
 - 📊 ML models & Power BI dashboards
 
-📧 **mahetashruti6@gmail.com** · 💼 [linkedin.com/in/shrutimaheta](https://linkedin.com/in/shrutimaheta)
+📧 **mahetashruti6@gmail.com** · 💼 [linkedin.com/in/shruti-maheta](https://www.linkedin.com/in/shruti-maheta-5370b2254/)
 
 ---
 
